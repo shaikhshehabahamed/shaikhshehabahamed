@@ -8,7 +8,7 @@ Technical strengths:
 * Process Improvement & Quality Methodologies: Six Sigma (White Belt), and Lean Six Sigma (White Belt)
 * CAD & Product Design: Certified SOLIDWORKS Associate (CSWA), and Additional SolidWorks Training Through SourceCAD
 * Engineering Computation & Simulation: MATLAB, and Simulink (MathWorks certifications)
-* Programming & Data Analysis: Python (Certified), R, and Minitab
+* Programming & Data Analysis: Python (Certified), and R
 * Databases & Business Intelligence: PostgreSQL, MongoDB, Microsoft Excel, and Power BI
 * Core Engineering Knowledge: Heat Transfer, Materials, Probability, and Statistical Analysis
 
