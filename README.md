@@ -2,7 +2,7 @@
 
 I am an undergraduate student of Industrial and Production Engineering at Khulna University of Engineering & Technology with a strong foundation in manufacturing systems, operations, and quality engineering. My academic training includes focused coursework in Manufacturing Processes, Operations Research, Product Design, and Quality Management, and I bring a rigorous, analytical approach to problem solving and process improvement.
 
-I combine academic knowledge with practical experience: I interned at Unilever, have published multiple research papers, and have presented my work at academic conferences. Outside the classroom I am actively involved in extracurricular leadership — as a member of the IEM Debating Club I helped organize a national-level event, and I have competed in high-level contests such as Battle of Minds (quarter-finalist) and the ISCEA Global Supply Chain Case Competition.
+I combine academic knowledge with practical experience: I interned at Unilever, have published multiple research papers, and have presented my work at academic conferences. Outside the classroom I am actively involved in extracurricular leadership — as a member of the IEM Debating Club I helped organize a national-level event, and I have competed in high-level contests such as Battle of Minds 2023 (quarter-finalist) and the ISCEA Global Supply Chain Case Competition 2025 (100% scholarship winner).
 
 Technical strengths:
 * Process Improvement & Quality Methodologies: Six Sigma (White Belt), and Lean Six Sigma (White Belt)
