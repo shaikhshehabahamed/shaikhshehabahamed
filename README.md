@@ -4,7 +4,7 @@ I am an undergraduate student of Industrial and Production Engineering at Khulna
 
 I combine academic knowledge with practical experience: I interned at Unilever, have published multiple research papers, and have presented my work at academic conferences. Outside the classroom I am actively involved in extracurricular leadership — as an executive member of the IEM Debating Club I helped organize a national-level event, and I have competed in high-level contests such as Battle of Minds 2023 (quarter-finalist) and the ISCEA Global Supply Chain Case Competition 2025 (100% scholarship winner).
 
-Technical strengths:
+Technical Strengths:
 * Process Improvement & Quality Methodologies: Six Sigma (Yellow Belt) and Lean Six Sigma (White Belt)
 * CAD & Product Design: SolidWorks Training Through SourceCAD
 * Engineering Computation & Simulation: MATLAB and Simulink (MathWorks certifications)
@@ -12,7 +12,7 @@ Technical strengths:
 * Databases & Business Intelligence: PostgreSQL, MongoDB, Microsoft Excel, Microsoft Power BI
 * Core Engineering Knowledge: Heat Transfer, Materials Science, Electrical Circuits
 
-Professional skills:
+Professional Skills:
 * Strong quantitative and mathematical ability, with practical experience applying statistical methods to engineering problems
 * Proven communication, leadership, and time-management skills developed through team projects, competitions, and event organization
 * Critical thinking and structured problem solving with a focus on delivering measurable process improvements
